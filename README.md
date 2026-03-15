@@ -11,6 +11,5 @@ A meme that captures how I currently feel about my university studies is between
 <https://media1.tenor.com/m/HRFlWA3y5TcAAAAd/lowtiercat-ptsdcat.gif>
 <https://media1.tenor.com/m/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif>
 
-
-#Project 1
-##mvan246
+# Project 1
+## mvan246
