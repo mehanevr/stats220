@@ -8,8 +8,8 @@ A little about me:
 -   I am interested in learning statistical ecology and how this course can develop my skills towards research and modelling for conservation and research within biodiversity.
 
 A meme that captures how I currently feel about my university studies is between these two: 
-<https://media1.tenor.com/m/HRFlWA3y5TcAAAAd/lowtiercat-ptsdcat.gif>
-<https://media1.tenor.com/m/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif>
+![GitHub](<https://media1.tenor.com/m/HRFlWA3y5TcAAAAd/lowtiercat-ptsdcat.gif>)
+![GitHub](<https://media1.tenor.com/m/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif>)
 
 # Project 1
 ## Due March 18th 22:00
@@ -36,7 +36,13 @@ Things I have to do for my project:
 5. Adding animation to your meme
 6. HTML creation
 
-My meme for today: 
-![GitHub](https://img.freepik.com/free-vector/simple-vibing-cat-square-meme_742173-4493.jpg?semt=ais_hybrid&w=740&q=80) 
+Rercently, I have been following the Global Dairy Trade and the trends presented within it. An important link is attached here:
+[Global Dairy Trade](https://www.globaldairytrade.info/en/product-results/)
+
+My gif for today: 
+![GitHub](https://media.tenor.com/Eo3liz227SsAAAAj/happy-international-womans-day-girl-power.gif)
+
+
+
 
 
