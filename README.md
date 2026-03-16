@@ -15,6 +15,8 @@ A meme that captures how I currently feel about my university studies is between
 ## Due March 18th 22:00
 ### Made by Mehane van Rooyen
 
+## Part A
+
 Today I am doing my **Project 1** which is very **exciting** - or maybe a bit *terrifying*. 
 We will see! Firstly, I am going to make some lists for myself.  
 
@@ -25,7 +27,9 @@ Statistics courses I have taken and will take:
 * Stats220
 * Stats125
 * Stats330
-* Stats370
+* Stats370 
+* STATS108
+* STATS255 
 
 Things I have to do for my project: 
 <!---this is an ordered list---> 
@@ -43,6 +47,9 @@ My gif for today:
 ![GitHub](https://media.tenor.com/Eo3liz227SsAAAAj/happy-international-womans-day-girl-power.gif)
 
 
+## Part B 
+My inspo meme:
+![Sisyphys](https://media1.tenor.com/m/vfzgNPbsdZgAAAAC/sisyphus-bowler.gif) 
 
-
+## Part C 
 
