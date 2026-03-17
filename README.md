@@ -40,7 +40,7 @@ Things I have to do for my project:
 5. Adding animation to your meme
 6. HTML creation
 
-Rercently, I have been following the Global Dairy Trade and the trends presented within it. An important link is attached here:
+Recently, I have been following the Global Dairy Trade and the trends presented within it. An important link is attached here:
 [Global Dairy Trade](https://www.globaldairytrade.info/en/product-results/)
 
 My gif for today: 
