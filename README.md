@@ -51,5 +51,4 @@ My gif for today:
 My inspo meme:
 ![Sisyphys](https://media1.tenor.com/m/vfzgNPbsdZgAAAAC/sisyphus-bowler.gif) 
 
-## Part C 
 
