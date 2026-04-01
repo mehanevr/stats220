@@ -30,7 +30,7 @@ latest_data = logged_data %>%
           sitting_with_people = "Is the student sitting with people?", 
           task = "What task is the student doing?", 
           time = "What is the time of day?")%>%
-  select(-Timestamp)
+select(-Timestamp)
 ```
 
 # Data Analysis in Project 2: How do students use their headphones at UoA? 
