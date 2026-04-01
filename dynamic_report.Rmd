@@ -27,7 +27,7 @@ latest_data = logged_data %>%
   select(-Timestamp)
 ```
 
-##Data Analysis in Project 2: How do students use their headphones at UoA? 
+## Data Analysis in Project 2: How do students use their headphones at UoA? 
 
 My report analyses data which was collected from observing students in the OGGB foyer, University of Auckland, in March 2026.
 
